@@ -1,0 +1,2 @@
+# javascriptpractico
+curso de platzi 
